@@ -5,6 +5,9 @@ results/
 data_files/input_tree
 data_files/results_tree
 
+data_files/results_loop
+
+
 
 # -- Python Specific --
 # Templete from: https://github.com/github/gitignore/edit/main/Python.gitignore
