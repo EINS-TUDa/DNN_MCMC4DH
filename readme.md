@@ -2,7 +2,7 @@
 
 This repo contains the code to reproduce the results from the paper "Deep Learning-enabled MCMC for Probabilistic State
 Estimation in District Heating Grids", which is published in Applied Energy in 2023.
-[https://doi.org/10.1016/j.apenergy.2023.120837](https://authors.elsevier.com/a/1gbdG15eif8FQV) 
+[https://doi.org/10.1016/j.apenergy.2023.120837](https://doi.org/10.1016/j.apenergy.2023.120837) 
 
 ## Abstract:
 Flexible district heating grids form an important part of future, low-carbon energy systems. We examine probabilistic 
